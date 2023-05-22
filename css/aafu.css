@@ -66,13 +66,13 @@ td {
 dt {
   font-weight: 400;
 }
-h1 {text-decoration: underline; font-family: 'Times New Roman', Times, serif;}
-h2 {line-height: 1.8; font-family: "Apple Chancery" ;}
-h3 {font-family: "Apple Chancery" ;}
-h4 {font-family: "Apple Chancery" ;}
-h5 {font-family: "Apple Chancery" ;}
+h1 {font-family: 'Times New Roman', Times, serif;}
+h2 {line-height: 1.8; font-family: "Roboto Mono" ;}
+h3 {font-family: "Roboto Mono" ;}
+h4 {font-family: "Roboto Mono" ;}
+h5 {font-family: "Roboto Mono ;}
 h6 {
-  font-family: "Apple Chancery" ;
+  font-family: "Roboto Mono" ;
 }
 a,
 a:hover,
