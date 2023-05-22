@@ -67,12 +67,12 @@ dt {
   font-weight: 400;
 }
 h1 {text-decoration: underline; font-family: 'Times New Roman', Times, serif;}
-h2 {line-height: 1.8; font-family: "Apple Chancery", cursive ;}
-h3 {font-family: "Apple Chancery", cursive ;}
-h4 {font-family: "Apple Chancery", cursive ;}
-h5 {font-family: "Apple Chancery", cursive ;}
+h2 {line-height: 1.8; font-family: "Apple Chancery" ;}
+h3 {font-family: "Apple Chancery" ;}
+h4 {font-family: "Apple Chancery" ;}
+h5 {font-family: "Apple Chancery" ;}
 h6 {
-  font-family: "Apple Chancery", cursive ;
+  font-family: "Apple Chancery" ;
 }
 a,
 a:hover,
